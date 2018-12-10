@@ -1,0 +1,9 @@
+
+
+# 301 Redirect to non-www
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^(.*)$ http://demo.pinofran.com/demo/ivent/%1/$1 [R=301,L]
+</IfModule>

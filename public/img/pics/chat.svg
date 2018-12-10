@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="HP_After-scroll-+-Stick-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1805.000000, -3882.000000)">
+        <g id="Group-5" transform="translate(1805.000000, 3882.000000)">
+            <circle id="Oval-4" fill="#3183FB" cx="32.5" cy="32.5" r="32.5"></circle>
+            <g id="Group-4" transform="translate(17.000000, 15.000000)">
+                <path d="M4,-0.000218284553 L27,-0.000218284553 C29.209139,-0.000218284553 31,1.79064272 31,3.99978172 L31,25.5 L31,35 L23,32 L4,32 C1.790861,32 2.705415e-16,30.209139 0,28 L0,3.99978172 C-2.705415e-16,1.79064272 1.790861,-0.000218284553 4,-0.000218284553 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                <path d="M6,23 C9.31060606,25.6666667 12.4772727,27 15.5,27 C18.5227273,27 21.6893939,25.6666667 25,23" id="Line-4" stroke="#3183FB" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

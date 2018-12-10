@@ -1,0 +1,14 @@
+# TEAM
+    Yaroslaw Korovianko
+    Nikola Myslovskij
+
+# ORGANIZATION
+    Red4x company
+
+# SITE
+	Language: Russian
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Components: Sass, Pug, JavaScript, Apache Server Configs, Normalize.css
+	IDE: Sublime Text, Vim
+    Software: Gulp, Git, Photoshop, Illustrator
